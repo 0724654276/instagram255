@@ -145,9 +145,16 @@ MEDIA_URL = '/media/'
 MEDIA_ROOT = os.path.join(BASE_DIR, 'media')
 
 
-# adding config
+# adding  cloudinary config
 cloudinary.config( 
   cloud_name = "dtee9x5yu", 
   api_key = "163743296544585", 
   api_secret = "eVRfXr_wf-SOEbUOZ5XhdclyR2s" 
 )
+
+#Email configuration
+EMAIL_USE_TLS = True
+EMAIL_HOST = 'smtp.gmail.com'
+EMAIL_PORT = 587
+EMAIL_HOST_USER = 'george.macharia@student.moringaschool.com'
+EMAIL_HOST_PASSWORD = 'kamakia91'
