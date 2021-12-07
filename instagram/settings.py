@@ -46,6 +46,7 @@ INSTALLED_APPS = [
     'gram',
     'cloudinary',
     'bootstrap3',
+    'bootstrap4',
 ]
 
 MIDDLEWARE = [
