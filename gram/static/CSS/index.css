@@ -33,14 +33,7 @@ body{
   .gal-item {
     float: left !important;
   }
-  /* .img-thumbnail:hover {
-    opacity: 0.9;
-    background-color: #682950;
-  }
-  .
-  .footer {
-    color: #9d4482 !important;
-  } */
+ 
   .footer a {
     color: #9d4487 !important;
   }
