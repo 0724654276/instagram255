@@ -51,7 +51,7 @@ To fix a bug or enhance an existing module, follow these steps:
 ## Contact Information
 george.macharia@student.moringaschool.com
 
-Live Project Link: 
+Live Project Link: https://instagram-imbo.herokuapp.com/
 
 ## License
 MIT License
