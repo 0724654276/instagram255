@@ -1,6 +1,6 @@
 body{
     font-size: 25px;
-    background-color: rgb(119, 200, 206);
+    background-color: 97BFB4rgb(119, 200, 206);
   }
   /* .photo {
     margin-bottom: 2rem;
@@ -11,7 +11,7 @@ body{
     border-radius: 50%;
   }
   .username {
-    color: #8f0339;
+    color: DD4A48#8f0339;
   }
   nav {
     color: #4a48be !important;
